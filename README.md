@@ -46,4 +46,4 @@ GitHub: (https://github.com/Ani-Kandikattu)
 
 Email: anikandikattu@gmail.com
 
-Link to this repository: https://github.com/Ani-Kandikattu/readme-generator
+Link to this repository: https://github.com/Ani-Kandikattu/e-commerce-website
