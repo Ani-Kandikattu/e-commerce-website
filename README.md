@@ -36,7 +36,7 @@ This project is licensed under MIT:
 
 No tests are required for this app.
 
-Link to Walkthrough Video: 
+Link to Walkthrough Video: https://drive.google.com/file/d/1n7MYW5rFrNedIyY-I1FwDeI6tqb0oDxv/view
 
 ## [Questions](#table-of-contents)
 
